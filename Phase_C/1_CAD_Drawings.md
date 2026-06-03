@@ -41,7 +41,7 @@
 
 使用 Meshy AI 生成短纜索天鉤 3D 模型：
 
-🔗 [Meshy 模型連結](https://www.meshy.ai/)（生成後貼 link）
+🔗 [Meshy 模型連結](https://www.meshy.ai/s/mcToej )
 
 **生成提示詞**：
 Generate a 3D model of a short space tether (skyhook) in low lunar orbit. The tether is 2,000 km long but thin. A rotating joint is at the center. The tether is spinning. Starship is approaching for docking at the tip.
